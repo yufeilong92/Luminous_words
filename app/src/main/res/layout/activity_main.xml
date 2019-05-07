@@ -47,7 +47,7 @@
                     android:textAllCaps="false"
                     android:layout_height="wrap_content"/>
             <com.example.myapplication.ShineTextView android:layout_width="match_parent"
-                                                     android:text="于飞龙"
+                                                     android:text="测试名字"
                                                      android:textColor="@color/chocolate"
                                                      android:textSize="20sp"
                                                      android:layout_gravity="center"
